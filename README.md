@@ -1,4 +1,4 @@
-# Rethinking Knowledge Graph Embeddings: Leveraging Entity-Agnostic Paths for Parameter Efficiency
+# PathE: Leveraging Entity-Agnostic Paths for \\Parameter-Efficient Knowledge Graph Embeddings
 ## Model overview
 ![pathe_v1](https://github.com/user-attachments/assets/c2cf52b1-8549-441a-9c0a-cd59aa1793af)
 
